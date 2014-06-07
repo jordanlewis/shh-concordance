@@ -4,7 +4,8 @@ shh-concordance
 Concordance for the Shenandoah Harmony
 
 Right now it's just a little script that tries its best to extract lyrics from
-a Lilypond file using lyricmode. You'll need to supply your own Lilypond files.
+Lilypond files that use lyricmode for lyrics. You'll need to supply your own
+Lilypond files if you want to try it out.
 
 Usage instructions:
 
